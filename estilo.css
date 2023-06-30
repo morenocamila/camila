@@ -71,20 +71,6 @@ li.dropdown {
     display: grid;
     grid-template-columns: auto auto auto auto;
 }
-@media screen and (max-width: 600px) {
-    .sesion1{
-        display: grid;
-        grid-template-columns: auto;
-    }
-        .sesion2{
-            display: grid;
-            grid-template-columns: auto;
-        }
-        .sesion3{
-            display: grid;
-            grid-template-columns: auto ;
-        }
-  }
   .sesion4{
     display: grid;
     grid-template-columns: auto;
